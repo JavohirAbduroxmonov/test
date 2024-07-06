@@ -1,0 +1,6 @@
+{
+    "items": [
+        { "id": "1", "item": "a title", "checked": false},
+        { "id": "2", "item": "another title", "chacked": false}
+    ]
+}
